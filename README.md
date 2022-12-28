@@ -1,2 +1,2 @@
-# Hi
-My name is Nadia. I'm a Retail Merchandiser transitioning into Data Analytics. I'm versed with Microsoft Excel and Google Sheets. I have basic skills in SQL and actively learning Tableau. I'm looking forward to connect with the data community and create projects. 
+# Hi, My name is Nadia
+I'm a Retail Merchandiser transitioning into Data Analytics. I am passionate about integrating retail merchandising and using data to help generate sales or find solutions to grow company needs.I'm versed with Microsoft Excel and Google Sheets. I have basic skills in SQL and actively learning Tableau. I’m known as a self starter, eager to learn and expand my skills, and a compassionate leader in my field. I'm looking forward to connect with the data community and create projects. 
